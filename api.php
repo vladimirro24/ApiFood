@@ -149,7 +149,7 @@
 "name": "Pepsi",
 "price": 2,
 "categorie": 4,
-"image": "http://tutofox.com/foodapp//food/drink/pepsi.png"
+"image": "https://e1.pxfuel.com/desktop-wallpaper/459/884/desktop-wallpaper-pepsi-launches-first-new-bottle-in-16-years-fab-news-pepsi-max.jpg"
 },
 {
 "name": "Quatro",
