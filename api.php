@@ -155,13 +155,13 @@
 "name": "Quatro",
 "price": 2,
 "categorie": 4,
-"image": "http://tutofox.com/foodapp//food/drink/quatro.png"
+"image": "https://lafabricadelafelicidad.cl/wp-content/uploads/2017/06/quatro-1.jpg"
 },
 {
 "name": "Sprite",
 "price": 2,
 "categorie": 4,
-"image": "http://tutofox.com/foodapp//food/drink/sprite.png"
+"image": "https://st2.depositphotos.com/1050070/9344/i/450/depositphotos_93445860-stock-photo-bottle-of-sprite-drink.jpg"
 }
 ]
 }
