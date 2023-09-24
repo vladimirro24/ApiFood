@@ -107,37 +107,37 @@
 "name": "Pizza Vegan",
 "price": 14,
 "categorie": 3,
-"image": "http://tutofox.com/foodapp//food/pizza/pizza-1.png"
+"image": "https://static.toiimg.com/thumb/msid-87930581,width-1280,resizemode-4/87930581.jpg"
 },
 {
 "name": "Pizza Bufalisimo",
 "price": 14,
 "categorie": 3,
-"image": "http://tutofox.com/foodapp//food/pizza/pizza-2.png"
+"image": "https://images.rappi.com/restaurants_background/12-1671200367742.jpg"
 },
 {
 "name": "Pizza Haiwaiana",
 "price": 13,
 "categorie": 3,
-"image": "http://tutofox.com/foodapp//food/pizza/pizza-3.png"
+"image": "https://st2.depositphotos.com/51175446/46754/i/450/depositphotos_467546748-stock-photo-top-view-of-sliced-hawaiian.jpg"
 },
 {
 "name": "Pizza Peperoni",
 "price": 16,
 "categorie": 3,
-"image": "http://tutofox.com/foodapp//food/pizza/pizza-4.png"
+"image": "https://images.squarespace-cdn.com/content/v1/624fa63d5ba99559345806e6/f0a2407d-3e22-4bbd-b877-74579d34dc3c/EG13_EP46_Cheesy+Pepperoni+Pizza_1L0A7068.jpg"
 },
 {
 "name": "Pizza Vegan 2",
 "price": 12,
 "categorie": 3,
-"image": "http://tutofox.com/foodapp//food/pizza/pizza-5.png"
+"image": "https://media-cdn.tripadvisor.com/media/photo-s/18/1a/c4/da/marguerita.jpg"
 },
 {
 "name": "Pizza Napolitana",
 "price": 18,
 "categorie": 3,
-"image": "http://tutofox.com/foodapp//food/pizza/pizza-6.png"
+"image": "https://i.pinimg.com/1200x/08/ef/38/08ef3823361683c683d1c7eb3a139640.jpg"
 },
 {
 "name": "Coca cola",
