@@ -35,37 +35,37 @@
 "name": "Beef Grill",
 "price": 24,
 "categorie": 1,
-"image": "http://tutofox.com/foodapp//food/american/beef-grill.png"
+"image": "https://gastronomiaycia.republica.com/wp-content/photos/pollo_piccata2.jpg"
 },
 {
 "name": "Chicken Picatta",
 "price": 20,
 "categorie": 1,
-"image": "http://tutofox.com/foodapp//food/american/chicken-piccata.png"
+"image": ""
 },
 {
 "name": "Chicken Romesco",
 "price": 21,
 "categorie": 1,
-"image": "http://tutofox.com/foodapp//food/american/chicken-romesco.png"
+"image": "https://gastronomiaycia.republica.com/wp-content/photos/polloenromesco2.jpg"
 },
 {
 "name": "Chicken Grill",
 "price": 22,
 "categorie": 1,
-"image": "http://tutofox.com/foodapp//food/american/chicken-grill.png"
+"image": "https://mujer.com.mx/cdn/recipes/pollo-grill-01.jpg"
 },
 {
 "name": "Salmon Grill",
 "price": 26,
 "categorie": 1,
-"image": "http://tutofox.com/foodapp//food/american/salmon-grill.png"
+"image": "https://buenprovecho.hn/wp-content/uploads/2019/01/Salm%C3%B3n-al-grill-con-hierbas.jpg"
 },
 {
 "name": "Salmon Romesco",
 "price": 25,
 "categorie": 1,
-"image": "http://tutofox.com/foodapp//food/american/salmon-romesco.png"
+"image": "https://mowisalmon.co.uk/wp-content/uploads/sites/11/2021/07/02_SALMON-AND-ROAST-TOMATO-ROMANESCO-SAUCE1-1200x628-c-default.jpg"
 },
 {
 "name": "Burger Home",
