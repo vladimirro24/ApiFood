@@ -143,7 +143,7 @@
 "name": "Coca cola",
 "price": 2,
 "categorie": 4,
-"image": "http://tutofox.com/foodapp//food/drink/cocacola.png"
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Botella_CocaCola.jpg/222px-Botella_CocaCola.jpg"
 },
 {
 "name": "Pepsi",
