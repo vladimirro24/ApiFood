@@ -71,37 +71,37 @@
 "name": "Burger Home",
 "price": 16,
 "categorie": 2,
-"image": "http://tutofox.com/foodapp//food/burger/burger-1.png"
+"image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cheeseburger.jpg"
 },
 {
 "name": "MegaBurger",
 "price": 16,
 "categorie": 2,
-"image": "http://tutofox.com/foodapp//food/burger/burger-2.png"
+"image": "https://img.lovepik.com/photo/20211130/medium/lovepik-burger-picture_501244571.jpg"
 },
 {
 "name": "Burger Special",
 "price": 16,
 "categorie": 2,
-"image": "http://tutofox.com/foodapp//food/burger/burger-3.png"
+"image": "https://www.eleconomista.com.mx/__export/1663980236290/sites/eleconomista/img/2022/09/23/hamburguesa_vegetariana.jpg_2078269903.jpg"
 },
 {
 "name": "Burger Cheese",
 "price": 16,
 "categorie": 2,
-"image": "http://tutofox.com/foodapp//food/burger/burger-4.png"
+"image": "https://www.elfinanciero.com.mx/resizer/JsWfACGP2lB5Q1Jupe8hRQ4kApo=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/C76W77H54RA3HBYABW37F3MXNY.jpg"
 },
 {
 "name": "Burger Farmer",
 "price": 16,
 "categorie": 1,
-"image": "http://tutofox.com/foodapp//food/burger/burger-5.png"
+"image": "https://previews.123rf.com/images/koya79/koya791503/koya79150300429/37385588-hamburguesa-3d-ilustraci%C3%B3n.jpg"
 },
 {
 "name": "Mini Burger",
 "price": 16,
 "categorie": 2,
-"image": "http://tutofox.com/foodapp//food/burger/burger-6.png"
+"image": "https://previews.123rf.com/images/cokemomo/cokemomo1206/cokemomo120600010/13939924-mini-burgers.jpg"
 },
 {
 "name": "Pizza Vegan",
